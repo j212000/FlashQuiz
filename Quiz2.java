@@ -1,5 +1,3 @@
-package test.jay;
-
 import java.util.Scanner;
 
 public class Quiz2{
@@ -28,12 +26,12 @@ public class Quiz2{
 				System.out.println("Do you like to cause pain to others? Enter Y or N");
 				answer = getAnswer();
 				if(answer == 'Y' || answer == 'y'){
-					System.out.println("Do you break peoples trust? Enter Y or N");
-					answer = getAnswer();
+					System.out.println("You are FireStorm");
+					
 
 				} else {
-					System.out.println("Do you like spreading hope? Enter Y or N");
-					answer = getAnswer();
+					System.out.println("You are Kid Flash");
+				
 
 				}
 
@@ -47,12 +45,12 @@ public class Quiz2{
 				System.out.println("Do you want to become the best by cheating? Enter Y or N");
 				answer = getAnswer();
 				if(answer == 'Y' || answer == 'y'){
-					System.out.println("Do you have a pet? Enter Y or N");
-					answer = getAnswer();
+					System.out.println("You are Captain Cold");
+					
 
 				} else {
-					System.out.println("Are you good at solving crime? Enter Y or N");
-					answer = getAnswer();
+					System.out.println("You are Joe West");
+					
 
 				}
 
@@ -60,12 +58,12 @@ public class Quiz2{
 				System.out.println("Do you are to make up for your mistakes? Enter Y or N");
 				answer = getAnswer();
 				if(answer == 'Y' || answer == 'y'){
-					System.out.println("Did you ever hurt anyone on purpose? Enter Y or N");
-					answer = getAnswer();
+					System.out.println("You are The Vibe");
+					
 
 				} else {
-					System.out.println("Did you parents die a tragic death? Enter Y or N");
-					answer = getAnswer();
+					System.out.println("You are Zoom");
+					
 
 				}
 
